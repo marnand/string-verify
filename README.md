@@ -1,6 +1,4 @@
-# Verificação de Presença de Todas as Letras do Alfabeto em uma String
-
-Esse algoritmo em C# verifica se uma string contém todas as letras do alfabeto. Ele percorre a string de entrada e determina se todas as letras de 'a' a 'z' estão presentes.
+# Verificação da Presença de Todas as Letras do Alfabeto em uma String
 
 ## Requisitos
 
